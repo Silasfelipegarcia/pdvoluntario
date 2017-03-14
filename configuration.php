@@ -13,7 +13,7 @@ class JConfig {
 	public $captcha = '0';
 	public $cookie_domain = '';
 	public $cookie_path = '';
-	public $db = 'pdvoluntario_legal';
+	public $db = 'pdvoluntario_joomla_f';
 	public $dbprefix = 'ziknf_';
 	public $dbtype = 'mysqli';
 	public $debug = '0';
@@ -33,11 +33,11 @@ class JConfig {
 	public $ftp_user = '';
 	public $gzip = '0';
 	public $helpurl = 'https://help.joomla.org/proxy/index.php?option=com_help&keyref=Help{major}{minor}:{keyref}';
-	public $host = 'opmy0009.servidorwebfacil.com:3306';
+	public $host = '127.0.0.1';
 	public $lifetime = '15';
 	public $list_limit = '20';
 	public $live_site = 'http://www.pdvoluntario.com.br';
-	public $log_path = 'E:/home/pdvoluntario.com.br/httpdocs/log';
+	public $log_path = 'C:/xampp/htdocs/pdvoluntario/pdvoluntario/log';
 	public $mailer = 'mail';
 	public $mailfrom = 'silasfelipegarcia12@gmail.com';
 	public $memcache_compress = '1';
@@ -49,9 +49,9 @@ class JConfig {
 	public $offline_message = 'Este site está fora do ar para manutenção.<br />Tente novamente mais tarde.';
 	public $offset = 'UTC';
 	public $offset_user = 'UTC';
-	public $password = 'felipe@123';
+	public $password = '';
 	public $robots = '';
-	public $secret = 'EovayFjOhwotfXsQm2H8nEmnXdpZUlG6';
+	public $secret = '8EjsC2gDbXM5IuXn7AlQGjK7JGBONH9b';
 	public $sef = '1';
 	public $sef_rewrite = '0';
 	public $sef_suffix = '0';
@@ -65,9 +65,9 @@ class JConfig {
 	public $smtpport = '25';
 	public $smtpsecure = 'none';
 	public $smtpuser = '';
-	public $tmp_path = 'E:/home/pdvoluntario.com.br/httpdocs/tmp';
+	public $tmp_path = 'C:/xampp/htdocs/pdvoluntario/pdvoluntario/tmp';
 	public $unicodeslugs = '0';
-	public $user = 'pdvol_voluntario';
+	public $user = 'root';
 	public $mailonline = '1';
 	public $cache_platformprefix = '0';
 	public $memcached_persist = '1';
