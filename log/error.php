@@ -16,3 +16,4 @@
 2017-03-23T19:33:06+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
 2017-03-23T20:08:44+00:00	INFO ::1	joomlafailure	Senha inválida
 2017-03-23T20:08:48+00:00	INFO ::1	joomlafailure	Senha inválida
+2017-03-23T20:10:01+00:00	INFO ::1	joomlafailure	Senha inválida
