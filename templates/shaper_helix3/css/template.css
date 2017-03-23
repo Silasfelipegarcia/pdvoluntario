@@ -1420,6 +1420,9 @@ ul.social-icons >li a {
   padding: 0;
   display: table-cell;
   vertical-align: middle;
+  animation: aparece 2s;
+  animation-delay:2s;
+  animation-fill-mode:backwards;
 }
 #sp-header .logo p {
   margin: 5px 0 0;
