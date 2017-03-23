@@ -11,3 +11,6 @@
 2017-03-23T19:08:53+00:00	INFO ::1	joomlafailure	Usuário não existe
 2017-03-23T19:20:09+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
 2017-03-23T19:20:19+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
+2017-03-23T19:32:06+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
+2017-03-23T19:32:34+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
+2017-03-23T19:33:06+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
