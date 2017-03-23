@@ -817,6 +817,13 @@ dl.article-info dd.hits span[class*=" icon-"] {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #000;
+  animation: aparece 0.8s ease-out;
+}
+@keyframes aparece{
+  from{
+    opacity:0;
+    transform: scale(0.001);
+  }
 }
 .sp-megamenu-parent >li.sp-has-child>a:after {
   font-family: "FontAwesome";
