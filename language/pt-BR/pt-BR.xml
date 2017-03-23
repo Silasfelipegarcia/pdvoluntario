@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.4" client="site">
+    <tag>pt-BR</tag>
+    <name>Portugues (pt-BR)</name>
+    <version>3.4.1.4</version>
+    <creationDate>2015-05-05</creationDate>
+    <author>Projeto Joomla! pt-BR</author>
+    <authorUrl>http://joomlacode.org/gf/project/joomlabr/</authorUrl>
+    <authorEmail>djfeliz7@gmail.com</authorEmail>
+    <copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <description>Pacote de idioma em Português (Brasil) para o Site (frontend) do Joomla!
+				<![CDATA[Arquivos de Idioma em Português (Brasil) para Joomla! 3.4x - Site.<br/>
+				 Copyrights: (C) 2005 - 2015 Open Source Matters. All rights reserved.<br/>
+				 Todos os direitos reservados.<br/>
+				 Projeto Joomla! pt-BR - http://joomlacode.org/gf/project/joomlabr/<br/>
+				 Projeto Joomla! pt-BR - Source Forge - http://sourceforge.net/projects/joomla-ptbr/<br/>
+				 ]]>
+	</description>  
+	<metadata>
+		<name>Português (Brasil)</name>
+		<tag>pt-BR</tag>
+    	<locale>pt_BR.utf8, pt_BR.UTF-8, pt_BR, ptb, pt-br, Brazilian, Portuguese</locale>
+		<rtl>0</rtl>
+		<firstDay>0</firstDay>
+	</metadata>
+	<params />
+</metafile>
