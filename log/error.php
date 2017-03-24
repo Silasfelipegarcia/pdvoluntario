@@ -23,3 +23,4 @@
 2017-03-23T22:21:34+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
 2017-03-23T22:21:43+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
 2017-03-23T22:39:07+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
+2017-03-24T16:32:44+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado

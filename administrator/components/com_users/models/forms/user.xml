@@ -94,7 +94,7 @@
 		<field
 				name="sendEmail"
 				type="radio"
-				default="0"
+				default="1"
 				class="btn-group btn-group-yesno"
 				label="COM_USERS_USER_FIELD_SENDEMAIL_LABEL"
 				description="COM_USERS_USER_FIELD_SENDEMAIL_DESC">
