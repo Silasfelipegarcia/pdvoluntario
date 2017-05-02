@@ -31,3 +31,6 @@
 2017-04-12T00:37:54+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
 2017-04-12T00:38:03+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
 2017-04-12T00:38:10+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
+2017-04-28T01:26:51+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Acesso Negado
+2017-05-01T16:39:03+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Usuário na lista-negra
+2017-05-01T16:39:13+00:00	INFO ::1	gmailfailure	Falha ao autenticar: Usuário na lista-negra

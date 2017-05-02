@@ -51,7 +51,7 @@ class JConfig {
 	public $offset_user = 'UTC';
 	public $password = '';
 	public $robots = '';
-	public $secret = 'lmlTkiBUqY54k9IB9aykbe9H3OaZ8zUp';
+	public $secret = '7qHe0WC552to6jQ1CVDoeVKshUdBTb8a';
 	public $sef = '1';
 	public $sef_rewrite = '0';
 	public $sef_suffix = '0';
