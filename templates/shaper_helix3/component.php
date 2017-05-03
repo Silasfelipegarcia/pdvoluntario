@@ -27,6 +27,8 @@ defined ('_JEXEC') or die ('resticted aceess');
    	<link rel="stylesheet" href="<?php echo $this->baseurl; ?>/media/jui/css/bootstrap.min.css" type="text/css" />
 	<link rel="stylesheet" href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/css/frontend-edit.css" type="text/css" />
     <link rel="stylesheet" href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/css/template.css" type="text/css" />
+    <link rel="stylesheet" href="<?php echo $this->baseurl; ?>/media/jui/css/new-base.css" type="text/css" />
+
 </head>
 <body class="contentpane">
 	<jdoc:include type="message" />

@@ -31,7 +31,9 @@ $twofactormethods = UsersHelper::getTwoFactorMethods();
 
     <jdoc:include type="head" />
    	<link rel="stylesheet" href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/css/bootstrap.min.css" type="text/css" />
-	<link rel="stylesheet" href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/css/template.css" type="text/css" />
+		<link rel="stylesheet" href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/css/template.css" type="text/css" />
+   	<link rel="stylesheet" href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/css/new-base.css" type="text/css" />
+
 <body>
 	<div class="container">
 		<div class="row">
@@ -59,7 +61,7 @@ $twofactormethods = UsersHelper::getTwoFactorMethods();
 							<div class="form-group" id="form-login-username">
 								<input name="username" id="username" type="text" class="form-control" placeholder="<?php echo JText::_('JGLOBAL_USERNAME'); ?>" size="18" />
 							</div>
-							
+
 							<div class="form-group" id="form-login-password">
 								<input type="password" name="password" class="form-control" size="18" placeholder="<?php echo JText::_('JGLOBAL_PASSWORD'); ?>" id="passwd" />
 							</div>
