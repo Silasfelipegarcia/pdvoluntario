@@ -849,7 +849,7 @@ dl.article-info dd.hits span[class*=" icon-"] {
   display: none;
 }
 .sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
-  background: red;
+
   box-shadow: 0 3px 5px 0 rgba(0,0,0,0.2);
   padding: 20px;
 }
@@ -1420,9 +1420,7 @@ ul.social-icons >li a {
   padding: 0;
   display: table-cell;
   vertical-align: middle;
-  animation: aparece 1.5s;
-  animation-delay:1s;
-  animation-fill-mode:backwards;
+
 }
 #sp-header .logo p {
   margin: 5px 0 0;

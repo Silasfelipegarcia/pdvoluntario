@@ -6280,7 +6280,7 @@ div.modal.fade.in {
 	font-weight: normal;
 }
 .icon-joomla:before {
-	content: "\e200";
+	content: "s";
 }
 .icon-chevron-up:before,
 .icon-uparrow:before,
@@ -7033,7 +7033,7 @@ a:focus {
 	outline: none;
 }
 .view-login {
-	background-color: red;
+	background-color: #f0f0f0;
 	padding-top: 0;
 }
 .view-login .container {

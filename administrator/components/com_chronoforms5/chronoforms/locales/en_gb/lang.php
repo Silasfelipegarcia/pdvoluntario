@@ -172,7 +172,7 @@ class Lang {
 	const CF_APPLY = "Apply";
 	const CF_INSERT = "Insert";
 	const CF_EDIT_CONTAINER_SETTINGS = "Edit container settings";
-	const CF_SAVE_AND_CLOSE = "Save and Close";
+	const CF_SAVE_AND_CLOSE = "Salvar e Fechar";
 	const CF_DELETE = "Delete";
 	const CF_DRAG = "Drag";
 	const CF_EDIT = "Edit";
@@ -605,7 +605,7 @@ class Lang {
 	const CF_VALIDATE_CUSTOM_DESC = "Enter the name of a custom JS function to be used for validation, the function's definition should be available in the global window namespace (i.e: not inside doc's ready event), it takes 1 parameter which is the element's object, and should return true or false.";
 	const CF_FILE_DOWNLOAD_PATH = "File path";
 	const CF_FILE_DOWNLOAD_PATH_DESC = "The absolute path to the file to be downloaded, the abosolute path to the chronoforms folder is provided by default, change it to your liking.";
-	
+
 	const CF_SELECT_ACTION_FILE = "Select action file";
 	const CF_SELECT_ACTION_FILE_DESC = "The action file should be .zip";
 	const CF_INSTALL_ACTION_TITLE = "Install Chronoforms action";
@@ -614,7 +614,7 @@ class Lang {
 	const CF_ACTION_EXTRACT_ERROR = "Extract error, couldn't extract the action file.";
 	const CF_ACTION_FILE_ERROR = "File error, the uploaded file may not be a Chronoforms action file.";
 	const CF_ACTION_INSTALL_SUCCESS = "Actions installed successfuly.";
-	
+
 	const CF_SELECT_LOCALE_FILE = "Select language file";
 	const CF_SELECT_LOCALE_FILE_DESC = "The language file should be .zip, and should include the language folder, e.g: en_gb";
 	const CF_INSTALL_LOCALE_TITLE = "Install Chronoforms language file";
@@ -623,7 +623,7 @@ class Lang {
 	const CF_LOCALE_EXTRACT_ERROR = "Extract error, couldn't extract the language file.";
 	const CF_LOCALE_FILE_ERROR = "File error, the uploaded file may not be a Chronoforms language file.";
 	const CF_LOCALE_INSTALL_SUCCESS = "Languages installed successfuly.";
-	
+
 	const CF_JOOMLA_REG_NAME = "Name field";
 	const CF_JOOMLA_REG_NAME_DESC = "The name of the field holding the user's name";
 	const CF_JOOMLA_REG_USERNAME = "Username field";
@@ -909,7 +909,7 @@ class Lang {
 	const CF_VIEW_RECORD = "View record";
 	const CF_CONTAINER_COLUMN_WIDTH = "Column width";
 	const CF_CONTAINER_COLUMN_WIDTH_DESC = "The % width of the column, total width should not exceed 99";
-	
+
 	const CF_IMG_RES_GENERAL = "General settings";
 	const CF_IMG_RES_RESIZE = "Resize";
 	const CF_IMG_RES_RESIZE_CROP = "Resize & Crop";
@@ -944,8 +944,8 @@ class Lang {
 	const CF_IMG_RES_IMG_B_DESC = "Blue alpha channel for png transparency. RGB color of the background.";
 	const CF_SETERROR_ERROR = "Error message";
 	const CF_SETERROR_ERROR_DESC = "Enter the error message to be displayed when the action runs.";
-	
-	
+
+
 	const CF_DIAG_ENABLED = "Enabled ?";
 	const CF_DIAG_TABLE_SELECTED = "Table selected ?";
 	const CF_DIAG_FILES_CONFIG_SET = "Files extensions configured ?";

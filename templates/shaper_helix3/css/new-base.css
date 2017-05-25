@@ -2,3 +2,79 @@
 	background-color:#eeeeee;
 	border-radius:7px;
 }
+ul, li{
+	list-style:none;
+}
+
+.titulo-paginaini{
+
+ animation:aparecendo 1s ease-in;
+ animation-delay:1s;
+ animation-fill-mode:backwards;
+}
+
+@keyframes aparecendo{
+
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+	}
+}
+.msgpagina{
+ animation:aparecendo 1s ease-in;
+ animation-delay:3s;
+ animation-fill-mode:backwards;
+}
+.msgpagina2{
+ animation:aparecendo 1s;
+ animation-delay:4s;
+ animation-fill-mode:backwards;
+}
+.msgpagina3{
+ animation:aparecendo 1s ;
+ animation-delay:5s;
+ animation-fill-mode:backwards;
+}
+.msgpagina4{
+ animation:aparecendo 1s;
+ animation-delay:6s;
+ animation-fill-mode:backwards;
+}
+.msgpagina5{
+ animation:aparecendo 1s;
+ animation-delay:7s;
+ animation-fill-mode:backwards;
+}
+.msgpagina6{
+	 animation:aparecendo 1s;
+ animation-delay:8s;
+ animation-fill-mode:backwards;
+}
+#sp-component{
+	background-color:#f0f0f0;
+	    border-radius: 1em;
+    padding: 1em 1em;
+}
+#sp-left, #sp-right{
+	    background-color: #f0f0f0;
+        padding: 1em 1em;
+    border-radius: 1em;
+}
+.icon-cog{
+	display:none;
+}
+#sp-header{
+	background-color:#f0f0f0;
+}
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner{
+	background-color:#e5e3e3;
+	border-radius: 1em;
+}
+div.cck_content {
+	background-image:rgba(10,10,10,0.9);
+}
+.alert-error{
+	display:none;
+}
